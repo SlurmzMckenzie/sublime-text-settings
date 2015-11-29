@@ -1,0 +1,20 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/predawn (SL).tmTheme",
+	"findreplace_small": true,
+	"font_face": "lato",
+	"font_options":
+	[
+		"bold"
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"predawn_sidebar_xsmall": false,
+	"predawn_tabs_active_underline": false,
+	"predawn_tabs_small": true,
+	"scroll_speed": 5.0,
+	"sidebar_small": true,
+	"theme": "predawn-DEV.sublime-theme"
+}

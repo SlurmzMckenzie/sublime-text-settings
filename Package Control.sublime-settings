@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Better Completion",
+		"Blade Snippets",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Cucumber",
+		"Git",
+		"HTMLBeautify",
+		"JavaScript Completions",
+		"Laravel Blade Highlighter",
+		"Liquid",
+		"Package Control",
+		"Predawn",
+		"Ruby on Rails snippets",
+		"Sass",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-jslint",
+		"SublimeLinter-contrib-ruby-lint",
+		"Terminal",
+		"Theme - Soda"
+	]
+}
